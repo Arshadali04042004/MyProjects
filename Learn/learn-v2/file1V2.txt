@@ -1,0 +1,12 @@
+hi-->hello
+how-->i
+hi-->e
+how are you-->i am fine
+what is your name-->my name is STARK
+df-->df
+-->	You :
+-->exit
+hi-->hello
+hello-->hii
+whats about-->Going Well
+how you doing-->It's Great
